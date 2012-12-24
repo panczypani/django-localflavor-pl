@@ -1,0 +1,124 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# Jirka Vejrazka <Jirka.Vejrazka@gmail.com>, 2011.
+# Vlada Macek <macek@sandbox.cz>, 2011, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-pl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:37-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Vlada Macek <macek@sandbox.cz>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+#: forms.py:42
+msgid "National Identification Number consists of 11 digits."
+msgstr "Národní identifikační číslo obsahuje 11 číslic."
+
+#: forms.py:43
+msgid "Wrong checksum for the National Identification Number."
+msgstr "Neplatný kontrolní součet pro Národní identifikační číslo."
+
+#: forms.py:79
+msgid "National ID Card Number consists of 3 letters and 6 digits."
+msgstr "Číslo národního identifikačního průkazu (3 písmena a 6 číslic)"
+
+#: forms.py:80
+msgid "Wrong checksum for the National ID Card Number."
+msgstr "Špatný kontrolní součet čísla národního identifikačního průkazu."
+
+#: forms.py:131
+msgid ""
+"Enter a tax number field (NIP) in the format XXX-XXX-XX-XX, XXX-XX-XX-XXX or"
+" XXXXXXXXXX."
+msgstr ""
+"Zadejte pole daňového čísla (NIP) ve tvaru XXX-XXX-XX-XX, XXX-XX-XX-XXX nebo"
+" XXXXXXXXXX."
+
+#: forms.py:132
+msgid "Wrong checksum for the Tax Number (NIP)."
+msgstr "Neplatný kontrolní součet pro daňové identifikační číslo."
+
+#: forms.py:171
+msgid "National Business Register Number (REGON) consists of 9 or 14 digits."
+msgstr "Identifikační číslo podnikatele (REGON) obsahuje 9 až 14 číslic."
+
+#: forms.py:172
+msgid "Wrong checksum for the National Business Register Number (REGON)."
+msgstr ""
+"Neplatný kontrolní součet pro identifikační číslo podnikatele (REGON)."
+
+#: forms.py:212
+msgid "Enter a postal code in the format XX-XXX."
+msgstr "Zadejte poštovní směrovací číslo ve tvaru XX-XXX."
+
+#: pl_voivodeships.py:8
+msgid "Lower Silesia"
+msgstr "Dolnoslezské vojvodství"
+
+#: pl_voivodeships.py:9
+msgid "Kuyavia-Pomerania"
+msgstr "Kujavsko-pomořské vojvodství"
+
+#: pl_voivodeships.py:10
+msgid "Lublin"
+msgstr "Lublinské vojvodství"
+
+#: pl_voivodeships.py:11
+msgid "Lubusz"
+msgstr "Lubušské vojvodství"
+
+#: pl_voivodeships.py:12
+msgid "Lodz"
+msgstr "Lodžské vojvodství"
+
+#: pl_voivodeships.py:13
+msgid "Lesser Poland"
+msgstr "Malopolské vojvodství"
+
+#: pl_voivodeships.py:14
+msgid "Masovia"
+msgstr "Mazovské vojvodství"
+
+#: pl_voivodeships.py:15
+msgid "Opole"
+msgstr "Opolské vojvodství"
+
+#: pl_voivodeships.py:16
+msgid "Subcarpatia"
+msgstr "Podkarpatské vojvodství"
+
+#: pl_voivodeships.py:17
+msgid "Podlasie"
+msgstr "Podleské vojvodství"
+
+#: pl_voivodeships.py:18
+msgid "Pomerania"
+msgstr "Pomořské vojvodství"
+
+#: pl_voivodeships.py:19
+msgid "Silesia"
+msgstr "Slezské vojvodství"
+
+#: pl_voivodeships.py:20
+msgid "Swietokrzyskie"
+msgstr "Svatokřížské vojvodství"
+
+#: pl_voivodeships.py:21
+msgid "Warmia-Masuria"
+msgstr "Varmijsko-mazurské vojvodství"
+
+#: pl_voivodeships.py:22
+msgid "Greater Poland"
+msgstr "Velkopolské vojvodství"
+
+#: pl_voivodeships.py:23
+msgid "West Pomerania"
+msgstr "Západopomořanské vojvodství"

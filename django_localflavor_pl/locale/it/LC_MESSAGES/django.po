@@ -1,0 +1,129 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Denis Darii <sinednx@gmail.com>, 2011.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+#   <lukefiltroman@gmail.com>, 2011.
+# Nicola Larosa <transifex@teknico.net>, 2011, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-pl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:37-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Nicola Larosa <transifex@teknico.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: forms.py:42
+msgid "National Identification Number consists of 11 digits."
+msgstr "Il Numero Identificativo Nazionale è costituito da 11 cifre."
+
+#: forms.py:43
+msgid "Wrong checksum for the National Identification Number."
+msgstr "Checksum errato per il Numero Identificativo Nazionale."
+
+#: forms.py:79
+msgid "National ID Card Number consists of 3 letters and 6 digits."
+msgstr ""
+"Il numero della carta d'identità nazionale è composto da 3 lettere e 6 "
+"cifre."
+
+#: forms.py:80
+msgid "Wrong checksum for the National ID Card Number."
+msgstr "Checksum errato per il numero della carta d'identità nazionale."
+
+#: forms.py:131
+msgid ""
+"Enter a tax number field (NIP) in the format XXX-XXX-XX-XX, XXX-XX-XX-XXX or"
+" XXXXXXXXXX."
+msgstr ""
+"Inserisci un campo di codice fiscale (NIP) nel formato XXX-XXX-XX-XX, XXX-"
+"XX-XX-XXX o XXXXXXXXXX."
+
+#: forms.py:132
+msgid "Wrong checksum for the Tax Number (NIP)."
+msgstr "Checksum errato per il Numero d'Imposta (NIP)."
+
+#: forms.py:171
+msgid "National Business Register Number (REGON) consists of 9 or 14 digits."
+msgstr ""
+"Il Numero di Registro Nazionale d'Impresa (REGON) è costituito da 9 o 14 "
+"cifre."
+
+#: forms.py:172
+msgid "Wrong checksum for the National Business Register Number (REGON)."
+msgstr ""
+"Checksum errato per il Numero di Registro Nazionale d'Impresa (REGON)."
+
+#: forms.py:212
+msgid "Enter a postal code in the format XX-XXX."
+msgstr "Inserisci un codice postale nel formato XX-XXX."
+
+#: pl_voivodeships.py:8
+msgid "Lower Silesia"
+msgstr "Bassa Silesia"
+
+#: pl_voivodeships.py:9
+msgid "Kuyavia-Pomerania"
+msgstr ""
+
+#: pl_voivodeships.py:10
+msgid "Lublin"
+msgstr "Lublino"
+
+#: pl_voivodeships.py:11
+msgid "Lubusz"
+msgstr ""
+
+#: pl_voivodeships.py:12
+msgid "Lodz"
+msgstr ""
+
+#: pl_voivodeships.py:13
+msgid "Lesser Poland"
+msgstr "Polonia Minore"
+
+#: pl_voivodeships.py:14
+msgid "Masovia"
+msgstr ""
+
+#: pl_voivodeships.py:15
+msgid "Opole"
+msgstr ""
+
+#: pl_voivodeships.py:16
+msgid "Subcarpatia"
+msgstr ""
+
+#: pl_voivodeships.py:17
+msgid "Podlasie"
+msgstr ""
+
+#: pl_voivodeships.py:18
+msgid "Pomerania"
+msgstr ""
+
+#: pl_voivodeships.py:19
+msgid "Silesia"
+msgstr ""
+
+#: pl_voivodeships.py:20
+msgid "Swietokrzyskie"
+msgstr ""
+
+#: pl_voivodeships.py:21
+msgid "Warmia-Masuria"
+msgstr ""
+
+#: pl_voivodeships.py:22
+msgid "Greater Poland"
+msgstr "Polonia Maggiore"
+
+#: pl_voivodeships.py:23
+msgid "West Pomerania"
+msgstr "Pomerania Ovest"

@@ -1,0 +1,120 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# bhaskar teja yerneni <prudhviy@gmail.com>, 2011.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-pl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:37-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: bhaskar teja yerneni <prudhviy@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: forms.py:42
+msgid "National Identification Number consists of 11 digits."
+msgstr ""
+
+#: forms.py:43
+msgid "Wrong checksum for the National Identification Number."
+msgstr "చెల్లని రష్ట్ర గుర్తు సంఖ్య నియంతృలెక్యము"
+
+#: forms.py:79
+msgid "National ID Card Number consists of 3 letters and 6 digits."
+msgstr ""
+
+#: forms.py:80
+msgid "Wrong checksum for the National ID Card Number."
+msgstr ""
+
+#: forms.py:131
+msgid ""
+"Enter a tax number field (NIP) in the format XXX-XXX-XX-XX, XXX-XX-XX-XXX or"
+" XXXXXXXXXX."
+msgstr ""
+
+#: forms.py:132
+msgid "Wrong checksum for the Tax Number (NIP)."
+msgstr "చెల్లని పన్ను సంఖ్య (ణీఫ్)నియంతృలెక్యము"
+
+#: forms.py:171
+msgid "National Business Register Number (REGON) consists of 9 or 14 digits."
+msgstr ""
+
+#: forms.py:172
+msgid "Wrong checksum for the National Business Register Number (REGON)."
+msgstr "చెల్లని రష్ట్ర వ్వవహార లెక్క పట్టి సంఖ్య నియంతృలెక్యము (REGON)."
+
+#: forms.py:212
+msgid "Enter a postal code in the format XX-XXX."
+msgstr "దయచేసి తపాలు సంహిత  XX-XXX రూపలవన్యములొ ఇవ్వండి."
+
+#: pl_voivodeships.py:8
+msgid "Lower Silesia"
+msgstr "లౌఎర్ సిలెసియ"
+
+#: pl_voivodeships.py:9
+msgid "Kuyavia-Pomerania"
+msgstr "కుయవియ-పొమెరానియ"
+
+#: pl_voivodeships.py:10
+msgid "Lublin"
+msgstr "లబ్లిన్"
+
+#: pl_voivodeships.py:11
+msgid "Lubusz"
+msgstr "లుబుస్"
+
+#: pl_voivodeships.py:12
+msgid "Lodz"
+msgstr "లొడ్జ్"
+
+#: pl_voivodeships.py:13
+msgid "Lesser Poland"
+msgstr "లెస్సెర్ పొలాండ్"
+
+#: pl_voivodeships.py:14
+msgid "Masovia"
+msgstr "మసొవియ"
+
+#: pl_voivodeships.py:15
+msgid "Opole"
+msgstr "ఒపొల్"
+
+#: pl_voivodeships.py:16
+msgid "Subcarpatia"
+msgstr "సుబ్కర్పతియ"
+
+#: pl_voivodeships.py:17
+msgid "Podlasie"
+msgstr "పొడ్లసి"
+
+#: pl_voivodeships.py:18
+msgid "Pomerania"
+msgstr "పొమెరానియా"
+
+#: pl_voivodeships.py:19
+msgid "Silesia"
+msgstr "సిలెసియా"
+
+#: pl_voivodeships.py:20
+msgid "Swietokrzyskie"
+msgstr "స్విటొక్ర్జిస్కియె"
+
+#: pl_voivodeships.py:21
+msgid "Warmia-Masuria"
+msgstr "వర్మియ-మాసురియా"
+
+#: pl_voivodeships.py:22
+msgid "Greater Poland"
+msgstr "గ్రేటెర్ పొలాండ్"
+
+#: pl_voivodeships.py:23
+msgid "West Pomerania"
+msgstr "పశ్చిమ పొమెరనియా"

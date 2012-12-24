@@ -1,0 +1,122 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# ming hsien tzang <tzangms@gmail.com>, 2011.
+# quantum9876 <quantum9876@gmail.com>, 2011.
+# tcc <tcchou@tcchou.org>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-pl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:37-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: tcc <tcchou@tcchou.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: forms.py:42
+msgid "National Identification Number consists of 11 digits."
+msgstr "國家身份證號碼由 11 位數字值組成。"
+
+#: forms.py:43
+msgid "Wrong checksum for the National Identification Number."
+msgstr "國家身份證號碼校驗和錯誤。"
+
+#: forms.py:79
+msgid "National ID Card Number consists of 3 letters and 6 digits."
+msgstr ""
+
+#: forms.py:80
+msgid "Wrong checksum for the National ID Card Number."
+msgstr ""
+
+#: forms.py:131
+msgid ""
+"Enter a tax number field (NIP) in the format XXX-XXX-XX-XX, XXX-XX-XX-XXX or"
+" XXXXXXXXXX."
+msgstr ""
+
+#: forms.py:132
+msgid "Wrong checksum for the Tax Number (NIP)."
+msgstr "税號（NIP）校驗和錯誤。"
+
+#: forms.py:171
+msgid "National Business Register Number (REGON) consists of 9 or 14 digits."
+msgstr "國家身分證號碼必須由 9 或 14 位數組成。"
+
+#: forms.py:172
+msgid "Wrong checksum for the National Business Register Number (REGON)."
+msgstr "國家商標註冊號碼（REGON）由 7 位或 9 位数字組成。"
+
+#: forms.py:212
+msgid "Enter a postal code in the format XX-XXX."
+msgstr "用 XX-XXX 的格式輸入郵遞區號。"
+
+#: pl_voivodeships.py:8
+msgid "Lower Silesia"
+msgstr "下西里西亞省"
+
+#: pl_voivodeships.py:9
+msgid "Kuyavia-Pomerania"
+msgstr "庫亞維-濱海省"
+
+#: pl_voivodeships.py:10
+msgid "Lublin"
+msgstr "盧布林"
+
+#: pl_voivodeships.py:11
+msgid "Lubusz"
+msgstr "盧布斯卡省"
+
+#: pl_voivodeships.py:12
+msgid "Lodz"
+msgstr "洛次"
+
+#: pl_voivodeships.py:13
+msgid "Lesser Poland"
+msgstr "小波蘭省"
+
+#: pl_voivodeships.py:14
+msgid "Masovia"
+msgstr "瑪佐維亞"
+
+#: pl_voivodeships.py:15
+msgid "Opole"
+msgstr "奧波萊"
+
+#: pl_voivodeships.py:16
+msgid "Subcarpatia"
+msgstr "外喀爾巴阡州"
+
+#: pl_voivodeships.py:17
+msgid "Podlasie"
+msgstr "波德拉謝"
+
+#: pl_voivodeships.py:18
+msgid "Pomerania"
+msgstr "波美拉尼亞"
+
+#: pl_voivodeships.py:19
+msgid "Silesia"
+msgstr "西利西亞"
+
+#: pl_voivodeships.py:20
+msgid "Swietokrzyskie"
+msgstr "聖十字省"
+
+#: pl_voivodeships.py:21
+msgid "Warmia-Masuria"
+msgstr "瓦爾米亞-馬祖里"
+
+#: pl_voivodeships.py:22
+msgid "Greater Poland"
+msgstr "大波蘭"
+
+#: pl_voivodeships.py:23
+msgid "West Pomerania"
+msgstr "西波美拉尼亞省"

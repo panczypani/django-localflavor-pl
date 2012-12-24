@@ -1,0 +1,125 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# angularcircle <angular.circle@gmail.com>, 2011.
+#   <angular.circle@gmail.com>, 2012.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# konryd <konryd@gmail.com>, 2011.
+# Roman Barczyński <rombar@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-pl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:37-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Roman Barczyński <rombar@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+
+#: forms.py:42
+msgid "National Identification Number consists of 11 digits."
+msgstr "Numer PESEL składa się z 11 cyfr."
+
+#: forms.py:43
+msgid "Wrong checksum for the National Identification Number."
+msgstr "Błędna suma kontrolna numeru PESEL."
+
+#: forms.py:79
+msgid "National ID Card Number consists of 3 letters and 6 digits."
+msgstr "Numer dowodu osobistego składa się z 3 liter i 6 cyfr."
+
+#: forms.py:80
+msgid "Wrong checksum for the National ID Card Number."
+msgstr "Błędna suma kontrolna numeru dowodu osobistego."
+
+#: forms.py:131
+msgid ""
+"Enter a tax number field (NIP) in the format XXX-XXX-XX-XX, XXX-XX-XX-XXX or"
+" XXXXXXXXXX."
+msgstr ""
+"Wprowadź numer identyfikacji podatkowej (NIP) w jednym z trzech formatów:  "
+"'XXX-XXX-XX-XX', 'XXX-XX-XX-XXX' lub 'XXXXXXXXXX'."
+
+#: forms.py:132
+msgid "Wrong checksum for the Tax Number (NIP)."
+msgstr "Błędna suma kontrolna numeru NIP"
+
+#: forms.py:171
+msgid "National Business Register Number (REGON) consists of 9 or 14 digits."
+msgstr "Numer REGON składa się z 9 lub 14 cyfr."
+
+#: forms.py:172
+msgid "Wrong checksum for the National Business Register Number (REGON)."
+msgstr "Błędna suma kontrolna numeru REGON"
+
+#: forms.py:212
+msgid "Enter a postal code in the format XX-XXX."
+msgstr "Wpisz kod pocztowy w formacie XX-XXX."
+
+#: pl_voivodeships.py:8
+msgid "Lower Silesia"
+msgstr "Dolnośląskie"
+
+#: pl_voivodeships.py:9
+msgid "Kuyavia-Pomerania"
+msgstr "Kujawsko-Pomorskie"
+
+#: pl_voivodeships.py:10
+msgid "Lublin"
+msgstr "Lubelskie"
+
+#: pl_voivodeships.py:11
+msgid "Lubusz"
+msgstr "Lubuskie"
+
+#: pl_voivodeships.py:12
+msgid "Lodz"
+msgstr "Łódzkie"
+
+#: pl_voivodeships.py:13
+msgid "Lesser Poland"
+msgstr "Małopolskie"
+
+#: pl_voivodeships.py:14
+msgid "Masovia"
+msgstr "Mazowieckie"
+
+#: pl_voivodeships.py:15
+msgid "Opole"
+msgstr "Opolskie"
+
+#: pl_voivodeships.py:16
+msgid "Subcarpatia"
+msgstr "Podkarpackie"
+
+#: pl_voivodeships.py:17
+msgid "Podlasie"
+msgstr "Podlaskie"
+
+#: pl_voivodeships.py:18
+msgid "Pomerania"
+msgstr "Pomorskie"
+
+#: pl_voivodeships.py:19
+msgid "Silesia"
+msgstr "Śląskie"
+
+#: pl_voivodeships.py:20
+msgid "Swietokrzyskie"
+msgstr "Świętokrzyskie"
+
+#: pl_voivodeships.py:21
+msgid "Warmia-Masuria"
+msgstr "Warmińsko-Mazurskie"
+
+#: pl_voivodeships.py:22
+msgid "Greater Poland"
+msgstr "Wielkopolskie"
+
+#: pl_voivodeships.py:23
+msgid "West Pomerania"
+msgstr "Zachodniopomorskie"

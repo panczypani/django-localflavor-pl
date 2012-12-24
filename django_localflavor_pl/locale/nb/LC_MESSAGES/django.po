@@ -1,0 +1,125 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011.
+#   <jonklo@gmail.com>, 2012.
+# jonklo <jonklo@gmail.com>, 2011.
+#   <sigurdga-transifex@sigurdga.no>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-pl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:37-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: sigurdga <sigurdga-transifex@sigurdga.no>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: forms.py:42
+msgid "National Identification Number consists of 11 digits."
+msgstr "National Identification Number består av 11 siffer."
+
+#: forms.py:43
+msgid "Wrong checksum for the National Identification Number."
+msgstr "Feil kontrollsum for National Identification Number."
+
+#: forms.py:79
+msgid "National ID Card Number consists of 3 letters and 6 digits."
+msgstr "Nasjonalt ID-kortnummer består av 3 bokstaver og 6 siffer."
+
+#: forms.py:80
+msgid "Wrong checksum for the National ID Card Number."
+msgstr "Feil sjekksum for nasjonalit ID-kortnummer."
+
+#: forms.py:131
+msgid ""
+"Enter a tax number field (NIP) in the format XXX-XXX-XX-XX, XXX-XX-XX-XXX or"
+" XXXXXXXXXX."
+msgstr ""
+"Oppgi et skattenummer (NIP) på formen XXX-XXX-XX-XX, XXX-XX-XX-XXX eller "
+"XXXXXXXXXX."
+
+#: forms.py:132
+msgid "Wrong checksum for the Tax Number (NIP)."
+msgstr "Ugyldig kontrollsum for NIP."
+
+#: forms.py:171
+msgid "National Business Register Number (REGON) consists of 9 or 14 digits."
+msgstr ""
+"National Business Register Number (REGON) består av 9 eller 14 siffer."
+
+#: forms.py:172
+msgid "Wrong checksum for the National Business Register Number (REGON)."
+msgstr "Ugyldig kontrollsum for National Business Register Number (REGON)."
+
+#: forms.py:212
+msgid "Enter a postal code in the format XX-XXX."
+msgstr "Oppgi et postnummer på formen XX-XXX."
+
+#: pl_voivodeships.py:8
+msgid "Lower Silesia"
+msgstr ""
+
+#: pl_voivodeships.py:9
+msgid "Kuyavia-Pomerania"
+msgstr ""
+
+#: pl_voivodeships.py:10
+msgid "Lublin"
+msgstr ""
+
+#: pl_voivodeships.py:11
+msgid "Lubusz"
+msgstr "Lubusz voivodskap"
+
+#: pl_voivodeships.py:12
+msgid "Lodz"
+msgstr "Łódź voivodskap"
+
+#: pl_voivodeships.py:13
+msgid "Lesser Poland"
+msgstr "Lillepolske voivodskap"
+
+#: pl_voivodeships.py:14
+msgid "Masovia"
+msgstr "Masoviske voivodskap"
+
+#: pl_voivodeships.py:15
+msgid "Opole"
+msgstr "Opole voivodskap"
+
+#: pl_voivodeships.py:16
+msgid "Subcarpatia"
+msgstr "Subkarpatiske voivodskap"
+
+#: pl_voivodeships.py:17
+msgid "Podlasie"
+msgstr "Podlasie voivodskap"
+
+#: pl_voivodeships.py:18
+msgid "Pomerania"
+msgstr "Pommerske voivodskap"
+
+#: pl_voivodeships.py:19
+msgid "Silesia"
+msgstr "Schlesiske voivodskap"
+
+#: pl_voivodeships.py:20
+msgid "Swietokrzyskie"
+msgstr "Helligkorsvoivodskapet"
+
+#: pl_voivodeships.py:21
+msgid "Warmia-Masuria"
+msgstr "Ermelandskmasuriske voivodskap"
+
+#: pl_voivodeships.py:22
+msgid "Greater Poland"
+msgstr "Storpolske voivodskap"
+
+#: pl_voivodeships.py:23
+msgid "West Pomerania"
+msgstr "Vestpommerske voivodskap"

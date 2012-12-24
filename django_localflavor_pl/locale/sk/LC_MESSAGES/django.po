@@ -1,0 +1,123 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# Marian Andre <marian@andre.sk>, 2011, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-pl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:37-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Marian Andre <marian@andre.sk>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+#: forms.py:42
+msgid "National Identification Number consists of 11 digits."
+msgstr "Národné identifikačné číslo sa skladá z 11 číslic."
+
+#: forms.py:43
+msgid "Wrong checksum for the National Identification Number."
+msgstr "Nesprávny kontrolný súčet pre národné identifikačné číslo."
+
+#: forms.py:79
+msgid "National ID Card Number consists of 3 letters and 6 digits."
+msgstr "Číslo občianskeho preukazu sa skladá z 3 písmen a 6 číslic."
+
+#: forms.py:80
+msgid "Wrong checksum for the National ID Card Number."
+msgstr "Zlý kontrolný súčet pre číslo občianskeho preukazu."
+
+#: forms.py:131
+msgid ""
+"Enter a tax number field (NIP) in the format XXX-XXX-XX-XX, XXX-XX-XX-XXX or"
+" XXXXXXXXXX."
+msgstr ""
+
+#: forms.py:132
+msgid "Wrong checksum for the Tax Number (NIP)."
+msgstr "Nesprávny kontrolný súčet pre daňové číslo (NIP)."
+
+#: forms.py:171
+msgid "National Business Register Number (REGON) consists of 9 or 14 digits."
+msgstr ""
+"Číslo národného obchodného registra (REGON) sa skladá z 9 alebo zo 14 "
+"číslic."
+
+#: forms.py:172
+msgid "Wrong checksum for the National Business Register Number (REGON)."
+msgstr ""
+"Nesprávny kontrolný súčet pre číslo národného obchodného registra (REGON)."
+
+#: forms.py:212
+msgid "Enter a postal code in the format XX-XXX."
+msgstr "Vložte poštové smerovacie číslo v tvare XX-XXX."
+
+#: pl_voivodeships.py:8
+msgid "Lower Silesia"
+msgstr "Dolnosliezske vojvodstvo"
+
+#: pl_voivodeships.py:9
+msgid "Kuyavia-Pomerania"
+msgstr "Kujavsko-pomoranské vojvodstvo"
+
+#: pl_voivodeships.py:10
+msgid "Lublin"
+msgstr "Lubelské vojvodstvo"
+
+#: pl_voivodeships.py:11
+msgid "Lubusz"
+msgstr "Lubuské vojvodstvo"
+
+#: pl_voivodeships.py:12
+msgid "Lodz"
+msgstr "Lodžské vojvodstvo"
+
+#: pl_voivodeships.py:13
+msgid "Lesser Poland"
+msgstr "Malopoľské vojvodstvo"
+
+#: pl_voivodeships.py:14
+msgid "Masovia"
+msgstr "Mazovské vojvodstvo"
+
+#: pl_voivodeships.py:15
+msgid "Opole"
+msgstr "Opolské vojvodstvo"
+
+#: pl_voivodeships.py:16
+msgid "Subcarpatia"
+msgstr "Podkarpatské vojvodstvo"
+
+#: pl_voivodeships.py:17
+msgid "Podlasie"
+msgstr "Podleské vojvodstvo"
+
+#: pl_voivodeships.py:18
+msgid "Pomerania"
+msgstr "Pomoranské vojvodstvo"
+
+#: pl_voivodeships.py:19
+msgid "Silesia"
+msgstr "Sliezske vojvodstvo"
+
+#: pl_voivodeships.py:20
+msgid "Swietokrzyskie"
+msgstr "Svätokrížske vojvodstvo"
+
+#: pl_voivodeships.py:21
+msgid "Warmia-Masuria"
+msgstr "Varmsko-mazurské vojvodstvo"
+
+#: pl_voivodeships.py:22
+msgid "Greater Poland"
+msgstr "Veľkopoľské vojvodstvo"
+
+#: pl_voivodeships.py:23
+msgid "West Pomerania"
+msgstr "Západopomoranské vojvodstvo"

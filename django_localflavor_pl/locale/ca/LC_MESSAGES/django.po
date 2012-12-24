@@ -1,0 +1,128 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Antoni Aloy <antoni.aloy@trespams.com>, 2011.
+# Carles Barrobés <carles@barrobes.com>, 2011, 2012.
+# el_libre como el chaval <el.libre@gmail.com>, 2011.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-pl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:37-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Carles Barrobés <carles@barrobes.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: forms.py:42
+msgid "National Identification Number consists of 11 digits."
+msgstr "El número d'identidicació nacional està compost de 11 digits."
+
+#: forms.py:43
+msgid "Wrong checksum for the National Identification Number."
+msgstr "Verificació del número d'identificació nacional invàlida."
+
+#: forms.py:79
+msgid "National ID Card Number consists of 3 letters and 6 digits."
+msgstr ""
+"El nombre de la tarja d'identificació nacional consisteix en 3 lletres i 6 "
+"dígits"
+
+#: forms.py:80
+msgid "Wrong checksum for the National ID Card Number."
+msgstr "Suma de comprovació incorrecta pel nombre d'identificació nacional"
+
+#: forms.py:131
+msgid ""
+"Enter a tax number field (NIP) in the format XXX-XXX-XX-XX, XXX-XX-XX-XXX or"
+" XXXXXXXXXX."
+msgstr ""
+"Entreu un número tributari (NIP) en el format XXX-XXX-XX-XX, XXX-XX-XX-XXX o"
+" XXXXXXXXXX."
+
+#: forms.py:132
+msgid "Wrong checksum for the Tax Number (NIP)."
+msgstr "Verificació del número tributari (NIP) invàlida."
+
+#: forms.py:171
+msgid "National Business Register Number (REGON) consists of 9 or 14 digits."
+msgstr ""
+"El número nacional de registre de negocis (REGON) està compost de 9 o 14 "
+"dígits."
+
+#: forms.py:172
+msgid "Wrong checksum for the National Business Register Number (REGON)."
+msgstr "Verificació del número nacional de registre de negocis invàlida."
+
+#: forms.py:212
+msgid "Enter a postal code in the format XX-XXX."
+msgstr "Introduïu un codi postal en el format XX-XXX."
+
+#: pl_voivodeships.py:8
+msgid "Lower Silesia"
+msgstr "Baixa Silèsia"
+
+#: pl_voivodeships.py:9
+msgid "Kuyavia-Pomerania"
+msgstr ""
+
+#: pl_voivodeships.py:10
+msgid "Lublin"
+msgstr ""
+
+#: pl_voivodeships.py:11
+msgid "Lubusz"
+msgstr ""
+
+#: pl_voivodeships.py:12
+msgid "Lodz"
+msgstr ""
+
+#: pl_voivodeships.py:13
+msgid "Lesser Poland"
+msgstr "Polònia Menor"
+
+#: pl_voivodeships.py:14
+msgid "Masovia"
+msgstr ""
+
+#: pl_voivodeships.py:15
+msgid "Opole"
+msgstr ""
+
+#: pl_voivodeships.py:16
+msgid "Subcarpatia"
+msgstr ""
+
+#: pl_voivodeships.py:17
+msgid "Podlasie"
+msgstr ""
+
+#: pl_voivodeships.py:18
+msgid "Pomerania"
+msgstr "Pomerània"
+
+#: pl_voivodeships.py:19
+msgid "Silesia"
+msgstr "Silèsia"
+
+#: pl_voivodeships.py:20
+msgid "Swietokrzyskie"
+msgstr ""
+
+#: pl_voivodeships.py:21
+msgid "Warmia-Masuria"
+msgstr ""
+
+#: pl_voivodeships.py:22
+msgid "Greater Poland"
+msgstr "Polònia Major"
+
+#: pl_voivodeships.py:23
+msgid "West Pomerania"
+msgstr "Pomerània Oest"
