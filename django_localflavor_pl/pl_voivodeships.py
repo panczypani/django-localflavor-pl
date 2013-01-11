@@ -5,20 +5,20 @@ Polish voivodeship as in http://en.wikipedia.org/wiki/Poland#Administrative_divi
 from django.utils.translation import ugettext_lazy as _
 
 VOIVODESHIP_CHOICES = (
-    ('lower_silesia', _('Lower Silesia')),
-    ('kuyavia-pomerania', _('Kuyavia-Pomerania')),
+    ('lower_silesian', _('Lower Silesian')),
+    ('kuyavia-pomeranian', _('Kuyavia-Pomeranian')),
     ('lublin', _('Lublin')),
     ('lubusz', _('Lubusz')),
     ('lodz', _('Lodz')),
     ('lesser_poland', _('Lesser Poland')),
-    ('masovia', _('Masovia')),
+    ('masovian', _('Masovian')),
     ('opole', _('Opole')),
-    ('subcarpatia', _('Subcarpatia')),
+    ('subcarpatian', _('Subcarpatian')),
     ('podlasie', _('Podlasie')),
-    ('pomerania', _('Pomerania')),
-    ('silesia', _('Silesia')),
+    ('pomeranian', _('Pomeranian')),
+    ('silesia', _('Silesian')),
     ('swietokrzyskie', _('Swietokrzyskie')),
-    ('warmia-masuria', _('Warmia-Masuria')),
+    ('warmia-masurian', _('Warmia-Masurian')),
     ('greater_poland', _('Greater Poland')),
-    ('west_pomerania', _('West Pomerania')),
+    ('west_pomeranian', _('West Pomeranian')),
 )
